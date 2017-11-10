@@ -1,3 +1,5 @@
+# 本文是从别的地方复制过来的，原文地址：https://github.com/opsnull/follow-me-install-kubernetes-cluster
+
 # 和我一步步部署 kubernetes 集群
 
 ![dashboard-home](./images/dashboard-home.png)
